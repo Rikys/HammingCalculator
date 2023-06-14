@@ -89,3 +89,4 @@ while True:
     # Calcolo di parità
     calcola(False)  # Bit di errore
     calcola(True)  # Bit da aggiungere
+    print()
